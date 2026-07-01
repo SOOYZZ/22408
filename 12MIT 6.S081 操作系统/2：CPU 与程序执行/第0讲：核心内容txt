@@ -1,0 +1,21 @@
+核心问题：程序如何进入内核执行？
+
+包括：
+
+原课程	中文翻译
+Lec05 Calling conventions and stack frames (RISC-V)	第5讲：函数调用约定与栈帧（RISC-V）
+Lec06 Isolation & system call entry/exit	第6讲：进程隔离与系统调用的进入/退出
+
+学习内容：
+
+栈（Stack）
+栈帧（Stack Frame）
+函数调用
+Trap（陷入）
+Trap 返回
+上下文保存
+用户态切换到内核态
+
+一句话：
+
+理解 CPU 如何执行函数，以及程序如何进入操作系统。

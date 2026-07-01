@@ -1,0 +1,20 @@
+核心问题：什么是操作系统？
+
+包括：
+
+原课程	中文翻译
+Lec01 Introduction and Examples	第1讲：操作系统简介与实例
+Lec03 OS Organization and System Calls	第3讲：操作系统组织结构与系统调用
+
+学习内容：
+
+什么是操作系统
+内核（Kernel）
+用户态 / 内核态
+系统调用（System Call）
+Shell 如何调用内核
+xv6 的整体结构
+
+一句话：
+
+理解操作系统为什么存在，以及它是如何工作的。

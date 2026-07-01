@@ -1,0 +1,24 @@
+核心问题：多个程序如何同时运行？
+
+包括：
+
+原课程	中文翻译
+Lec09 Interrupts	第9讲：中断
+Lec10 Multiprocessors and locking	第10讲：多处理器与锁
+Lec11 Thread switching	第11讲：线程切换
+Lec13 Sleep & Wake up	第13讲：睡眠与唤醒机制
+
+学习内容：
+
+中断
+多核 CPU
+自旋锁
+互斥锁
+调度器
+上下文切换
+Sleep/Wakeup
+同步与竞态条件
+
+一句话：
+
+理解操作系统如何管理多个任务同时运行。

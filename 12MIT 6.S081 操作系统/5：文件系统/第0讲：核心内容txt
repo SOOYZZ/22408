@@ -1,0 +1,23 @@
+核心问题：数据如何永久保存？
+
+包括：
+
+原课程	中文翻译
+Lec14 File systems	第14讲：文件系统
+Lec15 Crash recovery	第15讲：崩溃恢复
+Lec16 File system performance and fast crash recovery	第16讲：文件系统性能与快速崩溃恢复
+
+学习内容：
+
+inode
+目录
+文件
+Block
+日志（Logging）
+崩溃恢复
+Journaling
+文件缓存
+
+一句话：
+
+理解磁盘上的文件到底是怎么存储和恢复的。

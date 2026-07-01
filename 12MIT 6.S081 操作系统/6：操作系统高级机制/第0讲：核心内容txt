@@ -1,0 +1,21 @@
+核心问题：现代操作系统还能做什么？
+
+包括：
+
+原课程	中文翻译
+Lec18 OS organization	第18讲：操作系统组织结构
+Lec19 Virtual Machines	第19讲：虚拟机
+Lec20 Kernels and HLL	第20讲：内核与高级语言（High-Level Languages）
+
+学习内容：
+
+微内核
+宏内核
+虚拟化
+Hypervisor
+容器与虚拟机
+高级语言如何与内核协作
+
+一句话：
+
+理解现代操作系统的整体架构与扩展能力。

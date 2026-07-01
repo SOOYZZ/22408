@@ -1,0 +1,24 @@
+核心问题：内存为什么不会互相干扰？
+
+包括：
+
+原课程	中文翻译
+Lec04 Page tables	第4讲：页表
+Lec08 Page faults	第8讲：缺页异常（Page Fault）
+Lec17 Virtual memory for applications	第17讲：面向应用程序的虚拟内存
+
+学习内容：
+
+虚拟地址
+物理地址
+MMU
+页表
+地址转换
+缺页异常
+Copy-on-Write
+mmap
+虚拟内存
+
+一句话：
+
+理解为什么每个程序都觉得自己拥有完整的内存。
